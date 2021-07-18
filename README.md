@@ -1,4 +1,4 @@
-# Banking-System
+# Banking System
 
 The Sparks Foundation
 
